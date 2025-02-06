@@ -2,18 +2,13 @@
 
 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento full stack utilizando JavaScript/TypeScript com Node.js e Express. Além disso, tenho conhecimentos básicos em Unity.
 
-## 🔭 Atualmente estou trabalhando em
+## 🔭 Atualmente estou
 
 Trabalhando como desenvolvedor Back-end Jr, utilizando NestJS com Graphql e sou orientador educacional de cursos fullstack.
 
 ## 🌱 Estou aprendendo
 
-Estou focado em aprimorar minhas habilidades no uso do NestJS, especialmente integrando GraphQL para uma comunicação eficiente entre clientes e servidor, além de aprimorar minhas práticas no desenvolvimento de APIs RESTful.
-
-
-## 💬 Pergunte-me sobre
-
-Fique à vontade para me perguntar sobre desenvolvimento backend, NestJS, GraphQL, RESTful APIs, ou qualquer coisa relacionada a tecnologia. Estou aqui para ajudar!
+Estou focado em aprimorar minhas habilidades no uso do NestJS, especialmente integrando GraphQL.
 
 ## 📫 Como me encontrar
 
