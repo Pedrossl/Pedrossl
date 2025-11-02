@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento full stack utilizando JavaScript/TypeScript com Node.js e Express. Além disso, tenho conhecimentos básicos em Unity.
+Olá! Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento full stack utilizando JavaScript/TypeScript com Node.js e Express. Atualmente, estou cursando mestrado em Engenharia Eletrônica e Computação.
 
 ## 🔭 Atualmente estou
 
-Trabalhando como desenvolvedor Back-end Jr, utilizando NestJS com Graphql e sou orientador educacional de cursos fullstack.
+Trabalhando como desenvolvedor Back-end, utilizando NestJS com Graphql e sou orientador educacional de cursos fullstack.
 
 ## 🌱 Estou aprendendo
 
